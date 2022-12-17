@@ -1,7 +1,7 @@
 import numpy as np
-import os
+# import os
 
-os.system("cls")
+# os.system("cls")
 
 def random_predict(number:int=1) -> int:
     """Рандомно угадываем число

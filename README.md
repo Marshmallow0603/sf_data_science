@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта]()  
-[2. Какой кейс решаем?]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результат]()  
-[6. Выводы]()  
+[1. Описание проекта](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Какой-кейс-решаем?)  
+[3. Краткая информация о данных](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Результат)  
+[6. Выводы](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Выводы)  
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -29,16 +29,16 @@
 ### Краткая информация о данных
 ...
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Оглавление)
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Оглавление)
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Оглавление)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами

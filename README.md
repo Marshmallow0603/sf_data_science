@@ -2,10 +2,10 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Какой-кейс-решаем?)  
+[2. Какой кейс решаем?](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Результат)  
+[5. Результаты](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Результаты)  
 [6. Выводы](https://github.com/Marshmallow0603/sf_data_science/blob/main/README.md#Выводы)  
 
 ### Описание проекта  
